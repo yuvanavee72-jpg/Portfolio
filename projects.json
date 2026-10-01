@@ -1,0 +1,312 @@
+﻿[
+    {
+        "Index":  "01",
+        "Number":  1,
+        "Name":  "Clock-In, Locked-In",
+        "Kind":  "Product · Launch",
+        "Category":  "product",
+        "Caption":  "Real-time workforce tracking launch key visual",
+        "Fit":  false,
+        "File":  "assets/projects/project-1.jpg"
+    },
+    {
+        "Index":  "02",
+        "Number":  2,
+        "Name":  "One Solution, Multiple Industries",
+        "Kind":  "Product · Overview",
+        "Category":  "product",
+        "Caption":  "TimeX feature overview across industries",
+        "Fit":  false,
+        "File":  "assets/projects/project-2.jpg"
+    },
+    {
+        "Index":  "03",
+        "Number":  3,
+        "Name":  "One System. Full Clarity.",
+        "Kind":  "Product · Brand",
+        "Category":  "product",
+        "Caption":  "TimeX brand positioning key visual",
+        "Fit":  false,
+        "File":  "assets/projects/project-3.jpg"
+    },
+    {
+        "Index":  "04",
+        "Number":  4,
+        "Name":  "Automation \u0026 Efficiency",
+        "Kind":  "Brand · Quote",
+        "Category":  "quotes",
+        "Caption":  "Bill Gates on automation — leadership quote series",
+        "Fit":  false,
+        "File":  "assets/projects/project-4.jpg"
+    },
+    {
+        "Index":  "05",
+        "Number":  5,
+        "Name":  "Every Team Needs Clarity",
+        "Kind":  "Product · Feature",
+        "Category":  "product",
+        "Caption":  "TimeX clarity campaign with tablet dashboard",
+        "Fit":  false,
+        "File":  "assets/projects/project-5.jpg"
+    },
+    {
+        "Index":  "06",
+        "Number":  6,
+        "Name":  "Built for Daily Operations",
+        "Kind":  "Product · Feature",
+        "Category":  "product",
+        "Caption":  "Attendance automation feature set",
+        "Fit":  false,
+        "File":  "assets/projects/project-6.jpg"
+    },
+    {
+        "Index":  "07",
+        "Number":  7,
+        "Name":  "Workforce Data, Without Delays",
+        "Kind":  "Product · Dashboard",
+        "Category":  "product",
+        "Caption":  "Real-time dashboard breakdown",
+        "Fit":  false,
+        "File":  "assets/projects/project-7.jpg"
+    },
+    {
+        "Index":  "08",
+        "Number":  8,
+        "Name":  "Check-In to Reports, Automated",
+        "Kind":  "Product · Feature",
+        "Category":  "product",
+        "Caption":  "From check-in to reports, fully automated",
+        "Fit":  false,
+        "File":  "assets/projects/project-8.jpg"
+    },
+    {
+        "Index":  "09",
+        "Number":  9,
+        "Name":  "Innovation Distinguishes",
+        "Kind":  "Brand · Quote",
+        "Category":  "quotes",
+        "Caption":  "Steve Jobs on innovation — leadership quote series",
+        "Fit":  false,
+        "File":  "assets/projects/project-9.jpg"
+    },
+    {
+        "Index":  "10",
+        "Number":  10,
+        "Name":  "One Check-In. Everything Updated.",
+        "Kind":  "Product · Brand",
+        "Category":  "product",
+        "Caption":  "Unified attendance, approvals and analytics",
+        "Fit":  false,
+        "File":  "assets/projects/project-10.jpg"
+    },
+    {
+        "Index":  "11",
+        "Number":  11,
+        "Name":  "We Found Something",
+        "Kind":  "Teaser · Phase 01",
+        "Category":  "teaser",
+        "Caption":  "TimeX Lens teaser — the reveal begins",
+        "Fit":  false,
+        "File":  "assets/projects/project-11.jpg"
+    },
+    {
+        "Index":  "12",
+        "Number":  12,
+        "Name":  "Hear This Name a Lot",
+        "Kind":  "Teaser · Phase 02",
+        "Category":  "teaser",
+        "Caption":  "TimeX Lens name-drop teaser",
+        "Fit":  false,
+        "File":  "assets/projects/project-12.jpg"
+    },
+    {
+        "Index":  "13",
+        "Number":  13,
+        "Name":  "Stay Tuned",
+        "Kind":  "Teaser · Phase 03",
+        "Category":  "teaser",
+        "Caption":  "Your workplace through a different lens",
+        "Fit":  false,
+        "File":  "assets/projects/project-13.jpg"
+    },
+    {
+        "Index":  "14",
+        "Number":  14,
+        "Name":  "Don’t Need to Be Asked",
+        "Kind":  "Teaser · Phase 04",
+        "Category":  "teaser",
+        "Caption":  "Smart monitoring — more than meets the eye",
+        "Fit":  false,
+        "File":  "assets/projects/project-14.jpg"
+    },
+    {
+        "Index":  "15",
+        "Number":  15,
+        "Name":  "Why Is Everyone Talking?",
+        "Kind":  "Teaser · Phase 05",
+        "Category":  "teaser",
+        "Caption":  "Building intrigue around TimeX Lens",
+        "Fit":  false,
+        "File":  "assets/projects/project-15.jpg"
+    },
+    {
+        "Index":  "16",
+        "Number":  16,
+        "Name":  "What Others Don’t",
+        "Kind":  "Teaser · Phase 06",
+        "Category":  "teaser",
+        "Caption":  "The future is in focus — coming soon",
+        "Fit":  false,
+        "File":  "assets/projects/project-16.jpg"
+    },
+    {
+        "Index":  "17",
+        "Number":  17,
+        "Name":  "Happy Onam",
+        "Kind":  "Festive · Greeting",
+        "Category":  "festive",
+        "Caption":  "Festive greeting for the Enyard workplace",
+        "Fit":  false,
+        "File":  "assets/projects/project-17.jpg"
+    },
+    {
+        "Index":  "18",
+        "Number":  18,
+        "Name":  "Do You Have the Full Picture?",
+        "Kind":  "Teaser · Phase 07",
+        "Category":  "teaser",
+        "Caption":  "TimeX Lens hardware reveal",
+        "Fit":  false,
+        "File":  "assets/projects/project-18.jpg"
+    },
+    {
+        "Index":  "19",
+        "Number":  19,
+        "Name":  "Really Know From a Camera?",
+        "Kind":  "Teaser · Phase 08",
+        "Category":  "teaser",
+        "Caption":  "Interactive teaser — what a camera can really tell you",
+        "Fit":  false,
+        "File":  "assets/projects/project-19.jpg"
+    },
+    {
+        "Index":  "20",
+        "Number":  20,
+        "Name":  "Bitcoin Breaks $118K",
+        "Kind":  "CryptoLens · Poster",
+        "Category":  "crypto",
+        "Caption":  "Market milestone announcement poster",
+        "Fit":  false,
+        "File":  "assets/projects/project-20.jpg"
+    },
+    {
+        "Index":  "21",
+        "Number":  21,
+        "Name":  "The Market Never Sleeps",
+        "Kind":  "CryptoLens · Poster",
+        "Category":  "crypto",
+        "Caption":  "Brand campaign poster — real-time market tracking",
+        "Fit":  false,
+        "File":  "assets/projects/project-21.jpg"
+    },
+    {
+        "Index":  "22",
+        "Number":  22,
+        "Name":  "See Beyond The Charts",
+        "Kind":  "CryptoLens · Poster",
+        "Category":  "crypto",
+        "Caption":  "Analytics platform campaign poster",
+        "Fit":  false,
+        "File":  "assets/projects/project-22.jpg"
+    },
+    {
+        "Index":  "23",
+        "Number":  23,
+        "Name":  "CryptoLens Identity",
+        "Kind":  "CryptoLens · Logo",
+        "Category":  "crypto",
+        "Caption":  "Primary logo lockup on dark background",
+        "Fit":  true,
+        "File":  "assets/projects/project-23.jpg"
+    },
+    {
+        "Index":  "24",
+        "Number":  24,
+        "Name":  "Brand Style Guide",
+        "Kind":  "CryptoLens · Brand Sheet",
+        "Category":  "crypto",
+        "Caption":  "Full brand sheet — palette, type, icon set, logo variations",
+        "Fit":  false,
+        "File":  "assets/projects/project-24.jpg"
+    },
+    {
+        "Index":  "25",
+        "Number":  25,
+        "Name":  "Track Smarter, Trade Better",
+        "Kind":  "CryptoLens · Web Banner",
+        "Category":  "crypto",
+        "Caption":  "Hero web banner with 3D coin composition",
+        "Fit":  true,
+        "File":  "assets/projects/project-25.jpg"
+    },
+    {
+        "Index":  "26",
+        "Number":  26,
+        "Name":  "Analyze With Confidence",
+        "Kind":  "CryptoLens · Web Banner",
+        "Category":  "crypto",
+        "Caption":  "Product banner featuring dashboard UI mockups",
+        "Fit":  true,
+        "File":  "assets/projects/project-26.jpg"
+    },
+    {
+        "Index":  "27",
+        "Number":  27,
+        "Name":  "What is Market Cap?",
+        "Kind":  "CryptoLens · Carousel 1/5",
+        "Category":  "crypto",
+        "Caption":  "Educational carousel — market capitalisation explained",
+        "Fit":  true,
+        "File":  "assets/projects/project-27.jpg"
+    },
+    {
+        "Index":  "28",
+        "Number":  28,
+        "Name":  "What is Trading Volume?",
+        "Kind":  "CryptoLens · Carousel 2/5",
+        "Category":  "crypto",
+        "Caption":  "Educational carousel — trading volume explained",
+        "Fit":  true,
+        "File":  "assets/projects/project-28.jpg"
+    },
+    {
+        "Index":  "29",
+        "Number":  29,
+        "Name":  "Understanding Token Supply",
+        "Kind":  "CryptoLens · Carousel 3/5",
+        "Category":  "crypto",
+        "Caption":  "Educational carousel — token supply and scarcity",
+        "Fit":  true,
+        "File":  "assets/projects/project-29.jpg"
+    },
+    {
+        "Index":  "30",
+        "Number":  30,
+        "Name":  "What is TVL?",
+        "Kind":  "CryptoLens · Carousel 4/5",
+        "Category":  "crypto",
+        "Caption":  "Educational carousel — total value locked in DeFi",
+        "Fit":  true,
+        "File":  "assets/projects/project-30.jpg"
+    },
+    {
+        "Index":  "31",
+        "Number":  31,
+        "Name":  "Understanding Price Movement",
+        "Kind":  "CryptoLens · Carousel 5/5",
+        "Category":  "crypto",
+        "Caption":  "Educational carousel — how price movement works",
+        "Fit":  true,
+        "File":  "assets/projects/project-31.jpg"
+    }
+]
